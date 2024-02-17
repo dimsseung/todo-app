@@ -1,5 +1,5 @@
 # todo list app
-program CLI sederhana
+basic CLI program
 
 dropping feature "update"
 sorry not 100% work
